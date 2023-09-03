@@ -32,6 +32,7 @@
     padding: 0px;
     margin: 0;
     box-sizing: border-box;
+    touch-action: manipulation; 
 }
 body {
     background: var(--background);
